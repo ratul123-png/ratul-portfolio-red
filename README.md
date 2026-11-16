@@ -1,4 +1,4 @@
-﻿# MD Sadman Sakib Ratul — Portfolio
+# MD Sadman Sakib Ratul — Portfolio
 
 🌐 **Live Website:** [https://ratul123-png.github.io/ratul-portfolio/](https://ratul123-png.github.io/ratul-portfolio/)
 
